@@ -23,4 +23,6 @@ def hello ():
 button1 = tk.Button(text='Uzun Süreli Tıklama için Bana Tıkla',command=hello)
 canvas1.create_window(150, 150, window=button1)
 
+
+
 root.mainloop()
